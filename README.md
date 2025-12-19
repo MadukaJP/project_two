@@ -59,8 +59,8 @@ assets/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/opay-wallet-ui-flutter.git
-cd opay-wallet-ui-flutter
+git clone https://github.com/MadukaJP/project_two.git
+cd project_two
 
 # 2. Get dependencies
 flutter pub get
